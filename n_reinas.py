@@ -46,7 +46,7 @@ class NReinas:
 			#Reinas ya ubicadas
 			if c == col or abs(r - row) == abs(c - col):  
 				print("NO Cumple >>>", "Posicion Reina:", (r, c), "Posicion nueva:", (row, col))
-				return False #En caso de estar disponible la posicion nueva
+				return False
 			else:
 				print("Cumple >>>", "Posicion Reina:", (r, c), "Posicion Nueva:", (row, col))
 		return True

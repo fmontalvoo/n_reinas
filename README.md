@@ -35,3 +35,7 @@ python main.py 8
 ```
 
 ## Capturas
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/a5f2d9eb-3162-416c-bd40-a87d5f7a8bb8" />
+</p>
